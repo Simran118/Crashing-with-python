@@ -13,7 +13,7 @@ def main():
         my_source = path + fileaname
         my_dest = path + my_dest
         os.rename(my_source, my_dest)
-         i= i + 1
+         i= I + 1
          # Looping the Value by one
 
 if_name_ = '_main_':
